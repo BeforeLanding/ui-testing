@@ -180,5 +180,4 @@ examples/demo/                   ← 可运行的示例应用 + 通过门禁的�
 
 ## 许可
 
-MIT，见 [LICENSE](LICENSE)。fixtures、JS 覆盖率报告和部分测试写法改编自
-[viviannnl/ui-testing](https://github.com/viviannnl/ui-testing)（MIT）。
+MIT，见 [LICENSE](LICENSE)。
