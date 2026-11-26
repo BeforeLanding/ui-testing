@@ -1,0 +1,16 @@
+{
+  "thresholds": {
+    "ui": 100,
+    "jsFunctions": 90
+  },
+  "crawl": {
+    "routes": ["/"],
+    "skipRoutes": ["logout", "signout"],
+    "maxRoutes": 40,
+    "reveal": "all",
+    "maxRevealsPerRoute": 60
+  },
+  "collections": ["#books > li"],
+  "assertionHelpers": ["expectNoHorizontalOverflow", "scan"],
+  "ignore": []
+}

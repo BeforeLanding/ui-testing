@@ -1,0 +1,8 @@
+node_modules/
+test-results/
+playwright-report/
+.coverage/
+.ui-coverage/
+.ui-inventory.json
+.results.json
+state-matrix.draft.md
